@@ -1,0 +1,88 @@
+h1{
+  text-align: center;
+  text-decoration-style: double;
+  background-color: grey;
+  margin: 0;
+  padding: .25em;
+}
+
+h2{
+  text-align: center;
+  text-decoration: none;
+  background-color: lightblue;
+  margin: 0;
+  padding: .25em;
+}
+
+body{
+  background-color: grey;
+  background-position: center;
+  background-image: url("Images/BlackEyedPeas.JPG");
+}
+
+#content{
+  text-align: left;
+  margin: auto;
+  padding-left: .5em;
+}
+
+#intro{
+  background-color: beige;
+  text-align: center;
+  margin: 0;
+  height: 450px;
+  padding-top: 1em;
+  border-top: solid;
+}
+
+#photo{
+float: right;
+padding-right: 5em;
+}
+
+#menu{
+text-align: left;
+background-color: beige;
+margin: 0;
+padding-top: 1em;
+border-top: solid;
+padding-left: .5em;
+padding-right: .5em;
+}
+
+#photo2{
+padding-top: .5em;
+text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+#story{
+  text-align: left;
+  background-color: beige
+  margin: 0;
+  padding-top: .5em;
+  padding-left: .5em;
+  font-family: cursive;
+}
+
+#photo3{
+  text-align: center;
+  padding-top: .25em;
+  padding-bottom: .25em;
+  font-family: cursive;
+}
+
+#events{
+  text-align: center;
+  background-color: beige;
+  padding-left: .5em;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+#photo4{
+  padding-right: 5em;
+}
